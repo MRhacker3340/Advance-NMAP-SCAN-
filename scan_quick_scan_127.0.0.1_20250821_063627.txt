@@ -1,0 +1,14 @@
+Scan Type: quick_scan
+Target: 127.0.0.1
+Timestamp: 2025-08-21 06:36:27
+--------------------------------------------------------------------------------
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2025-08-21 06:36 UTC
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.00038s latency).
+Not shown: 97 closed tcp ports (conn-refused)
+PORT    STATE SERVICE
+22/tcp  open  ssh
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 0.03 seconds
